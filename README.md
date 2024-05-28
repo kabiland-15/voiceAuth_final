@@ -1,3 +1,9 @@
+Google Colab link for ipython notebooks:
+https://drive.google.com/drive/folders/1cKmNd027OGKeND4FTnh7sZBdwC7QQoEV?usp=sharing
+
+
+
+
 Deep Fake Voice Detection Using CRNN and Machine Learning Models
 Project Overview
 This project aims to develop a robust system for detecting deep fake voices using Convolutional Recurrent Neural Networks (CRNN) and traditional machine learning algorithms such as Random Forest Classifier and XGBoost. The system leverages audio feature extraction techniques provided by the librosa and numpy libraries to process and analyze audio data. The dataset utilized for training and evaluation is sourced from the Deepfake Detection Challenge on Kaggle.
