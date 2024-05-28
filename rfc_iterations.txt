@@ -1,0 +1,48 @@
+Training with max_depth=5 and random_state=42
+Accuracy with max_depth=5 and random_state=42: 0.9070458404074703
+Training with max_depth=5 and random_state=100
+Accuracy with max_depth=5 and random_state=100: 0.9078947368421053
+Training with max_depth=5 and random_state=2022
+Accuracy with max_depth=5 and random_state=2022: 0.9044991511035654
+Training with max_depth=5 and random_state=12345
+Accuracy with max_depth=5 and random_state=12345: 0.9049235993208828
+Training with max_depth=10 and random_state=42
+Accuracy with max_depth=10 and random_state=42: 0.9762308998302207
+Training with max_depth=10 and random_state=100
+Accuracy with max_depth=10 and random_state=100: 0.9762308998302207
+Training with max_depth=10 and random_state=2022
+Accuracy with max_depth=10 and random_state=2022: 0.9745331069609507
+Training with max_depth=10 and random_state=12345
+Accuracy with max_depth=10 and random_state=12345: 0.9758064516129032
+Training with max_depth=20 and random_state=42
+Accuracy with max_depth=20 and random_state=42: 0.9902376910016978
+Training with max_depth=20 and random_state=100
+Accuracy with max_depth=20 and random_state=100: 0.9902376910016978
+Training with max_depth=20 and random_state=2022
+Accuracy with max_depth=20 and random_state=2022: 0.9889643463497453
+Training with max_depth=20 and random_state=12345
+Accuracy with max_depth=20 and random_state=12345: 0.9893887945670629
+Training with max_depth=30 and random_state=42
+Accuracy with max_depth=30 and random_state=42: 0.9906621392190152
+Training with max_depth=30 and random_state=100
+Accuracy with max_depth=30 and random_state=100: 0.9893887945670629
+Training with max_depth=30 and random_state=2022
+Accuracy with max_depth=30 and random_state=2022: 0.9898132427843803
+Training with max_depth=30 and random_state=12345
+Accuracy with max_depth=30 and random_state=12345: 0.9906621392190152
+Training with max_depth=40 and random_state=42
+Accuracy with max_depth=40 and random_state=42: 0.9906621392190152
+Training with max_depth=40 and random_state=100
+Accuracy with max_depth=40 and random_state=100: 0.9893887945670629
+Training with max_depth=40 and random_state=2022
+Accuracy with max_depth=40 and random_state=2022: 0.9898132427843803
+Training with max_depth=40 and random_state=12345
+Accuracy with max_depth=40 and random_state=12345: 0.9906621392190152
+Training with max_depth=None and random_state=42
+Accuracy with max_depth=None and random_state=42: 0.9906621392190152
+Training with max_depth=None and random_state=100
+Accuracy with max_depth=None and random_state=100: 0.9893887945670629
+Training with max_depth=None and random_state=2022
+Accuracy with max_depth=None and random_state=2022: 0.9898132427843803
+Training with max_depth=None and random_state=12345
+Accuracy with max_depth=None and random_state=12345: 0.9906621392190152
